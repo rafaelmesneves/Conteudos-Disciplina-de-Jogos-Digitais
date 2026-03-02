@@ -1,3 +1,8 @@
+---
+layout: default
+title: Triade Elementar
+---
+
 # Aula Gameficação - Profº Rafael
 
 ## Os 4 elementos dos Jogos Digitais
