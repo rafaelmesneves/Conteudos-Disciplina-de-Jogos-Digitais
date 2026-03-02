@@ -3,6 +3,6 @@ layout: default
 title: Página Inicial
 ---
 
-# Minha Wiki
+# Gameficação
 
 - [Aula Gameficação - Triade Elementar](Triade_elementar.md)
