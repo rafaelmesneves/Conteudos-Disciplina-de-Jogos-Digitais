@@ -10,7 +10,7 @@ title: Triade Elementar
 Todos os jogos digitais possuem 4 elementos básicos para sua existência, eles são: Estética, Mecânica, narrativa e tecnologia.
 
 ![image.png](https://raw.githubusercontent.com/bucketio/img0/main/2026/03/02/1772476026612-e7946101-0683-4201-899f-473f87baa261.png 'imagem gerada por IA')
-
+imagem gerada por IA
 
 Essas 4 características formam então um **quadrilátero**.
 
@@ -42,17 +42,17 @@ Por isso, nesse momento iremos nos aprofundar apenas nesses elementos: *narrativ
 ## Fortnite
 ![image.png](https://raw.githubusercontent.com/bucketio/img9/main/2026/03/02/1772477823829-1ccb87d4-38d6-48c5-85de-ad341463d407.png 'Ação, tiro, battle royale
 ')
-
+Ação, tiro, battle royale
 
 ## God of War 4
 ![image.png](https://raw.githubusercontent.com/bucketio/img8/main/2026/03/02/1772477959765-93831991-833f-4e82-8aaa-1f4fb22ab22a.png 'Ação, aventura, RPG
 ')
-
+Ação, aventura, RPG
 
 ## Crash Bandicoot
 ![image.png](https://raw.githubusercontent.com/bucketio/img16/main/2026/03/02/1772478007072-29bb23bd-7fa0-4d15-996d-0f7297c4f916.png 'Aventura, plataforma
 ')
-
+Aventura, plataforma
 
 ## Chrono Trigger
 ![image.png](https://raw.githubusercontent.com/bucketio/img12/main/2026/03/02/1772478137866-91d83858-9f47-4711-8655-f03ab2ad3d7f.png 'JRPG
@@ -62,7 +62,7 @@ Por isso, nesse momento iremos nos aprofundar apenas nesses elementos: *narrativ
 ## The Walking Dead: The Telltale
 ![image.png](https://raw.githubusercontent.com/bucketio/img12/main/2026/03/02/1772478088239-02fbb2be-2078-4b2a-abb0-4362eb7120b6.png 'Terror, filme interativo
 ')
-
+Terror, filme interativo
 
 # ATIVIDADE
 
