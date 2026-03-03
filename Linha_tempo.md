@@ -10,7 +10,7 @@ title: Linha do tempo dos jogos digitais e gêneros
 
 Esse foi o primeiro jogo digital criado, dentro da universidade como uma pesquisa na área da tecnologia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6PG2mdU_i8k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PG2mdU_i8k?si=GUqz8rg4-ZY6skwu" frameborder="0" allowfullscreen></iframe>
 
 
 ### SpaceWar (1962) MIT
