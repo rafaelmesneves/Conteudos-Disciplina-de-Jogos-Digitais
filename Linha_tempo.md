@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Linha do tempo dos jogos digitais e gêneros
 ---
 
