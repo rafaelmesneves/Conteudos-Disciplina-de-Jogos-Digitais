@@ -8,3 +8,4 @@ title: Página Inicial
 - [Linha do tempo dos Jogos Digitais e gêneros](Linha_tempo.md)
 - [Triade Elementar](Triade_elementar.md)
 - [Profissões na área dos Jogos Digitais](profissoes-jogos.md)
+- [GDD - Game Design Document](GDD.md)
