@@ -66,6 +66,9 @@ O que deixa esse jogo diferente de outros do mesmo gênero?
 **Referências**
 
 **FULLERTON, Tracy.** Game Design Workshop: A Playcentric Approach to Creating Innovative Games. CRC Press, 2018.
+
 **SCHELL, Jesse.** The Art of Game Design: A Book of Lenses. CRC Press, 2019.
+
 **ROGERS, Scott.** Level Up! The Guide to Great Video Game Design. Wiley, 2014.
+
 **SALEN, Katie; ZIMMERMAN, Eric.** Rules of Play: Game Design Fundamentals. MIT Press, 2004.
