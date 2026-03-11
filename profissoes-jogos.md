@@ -31,9 +31,15 @@ Portanto, criar um jogo envolve muitas profissões trabalhando juntas. Desenvolv
 **Referências**
 
 **KOJIMA, Hideo.** Metal Gear Solid. Konami, 1998.
+
 **KOJIMA PRODUCTIONS.** Death Stranding. Sony Interactive Entertainment, 2019.
+
 **MONTREAL INTERNATIONAL GAME SUMMIT.** Game development roles and production pipeline. 2021.
+
 **NINTENDO.** History of Shigeru Miyamoto and Nintendo game development. Nintendo Official Website.
+
 **PIXEL PUNK.** Unsighted. Studio Pixel Punk, 2021.
+
 **CAPCOM.** Game sound design and development teams in Resident Evil and Devil May Cry.
+
 **SQUARE ENIX.** NieR: Automata and direction by Yoko Taro.
