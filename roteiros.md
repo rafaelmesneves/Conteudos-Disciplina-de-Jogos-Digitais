@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gameficação: Roteiros
+title: Roteiros
 ---
 
 
@@ -138,11 +138,13 @@ O universo se reinicia a cada 22 minutos, e a narrativa é construída no acúmu
 Início com o avião caindo no mar, em seguida o jogador já mergulha na cidade submersa de Rapture. Não há introdução detalhada sobre o que é Rapture; o entendimento vem depois.
 
 * * *
+
 *Observou-se que os jogos eletrônicos representam um avanço em relação aos filmes. O público deixa de ser mero observador e passa a interagir, moldar, alterar e construir histórias únicas e inesperadas.*
 
 ----
 
-#ATIVIDADE
+
+# ATIVIDADE
 
 Preencha no caderno o modelo (a seguir) dos **3 atos** a partir do sorteio temáticos.
 
