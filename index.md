@@ -9,3 +9,4 @@ title: Página Inicial
 - [Triade Elementar](Triade_elementar.md)
 - [Profissões na área dos Jogos Digitais](profissoes-jogos.md)
 - [GDD - Game Design Document](GDD.md)
+- [Roteiros](roteiros.md)
