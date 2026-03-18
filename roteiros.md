@@ -139,3 +139,12 @@ Início com o avião caindo no mar, em seguida o jogador já mergulha na cidade 
 
 * * *
 *Observou-se que os jogos eletrônicos representam um avanço em relação aos filmes. O público deixa de ser mero observador e passa a interagir, moldar, alterar e construir histórias únicas e inesperadas.*
+
+----
+
+#ATIVIDADE
+
+Preencha no caderno o modelo (a seguir) dos **3 atos** a partir do sorteio temáticos.
+
+![](https://i.imgur.com/NutapMv.jpeg)
+![](https://i.imgur.com/chCBYCE.jpeg)
