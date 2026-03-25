@@ -161,6 +161,7 @@ for i = 1, #nomes do
   print(nomes[i])
 end
 ```
+![tabela naruto](https://i.ibb.co/SDRsLZfB/Captura-de-tela-20260324-223313.png)
 
 ---
 
