@@ -10,3 +10,4 @@ title: Página Inicial
 - [Profissões na área dos Jogos Digitais](profissoes-jogos.md)
 - [GDD - Game Design Document](GDD.md)
 - [Roteiros](roteiros.md)
+- [Introdução a lógica de Programação](into_program.md)
