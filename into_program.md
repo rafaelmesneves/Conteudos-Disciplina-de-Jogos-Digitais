@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introdução a lógica de Programação
+---
+
 # Introdução a lógica de Programação
 
 ![pcs](https://miro.medium.com/v2/resize:fit:1400/1*cN1rFD-UnAgG5nYKu1Cj0A.png)
