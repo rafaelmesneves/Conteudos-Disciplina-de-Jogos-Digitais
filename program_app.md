@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Progração - Lógica aplicada
+title: Programação - Lógica aplicada
 ---
 
-# Progração - Lógica aplicada
+# Programação - Lógica aplicada
 
 
 ## Variáveis
