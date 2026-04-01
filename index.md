@@ -12,3 +12,4 @@ title: Página Inicial
 - [Roteiros](roteiros.md)
 - [Introdução a lógica de Programação](into_program.md)
 - [Programação - Lógica aplicada](program_app.md)
+- [Definição de "jogo"](definicao.md)
